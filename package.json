@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "atom-greenfoot:toggle"
   },
-  "repository": "https://github.com/atom/atom-greenfoot",
+  "repository": "https://github.com/legodude17/atom-greenfoot",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
